@@ -1,2 +1,14 @@
-.gradle
+# Gradle files
+.gradle/
 build/
+
+# Intellij IDEA files
+.idea/
+out/
+*.iml
+
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
