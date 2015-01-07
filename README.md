@@ -35,6 +35,11 @@ To test if everything is fine, use gradle:
     
 If tests are failing, you should see output directing you to an HTML report with all errors.
 
+Bonus tasks
+--
+The tests in bonus are optional, but helps score extra points. They are harder, and requires either creativity,
+or more internal knowledge about java.
+
 Submitting
 --
 When done, commit your changes, then create a git patch, and send to your contact in UMS.
