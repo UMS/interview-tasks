@@ -10,7 +10,11 @@ import org.junit.Test;
  *
  * You are only allowed to change the code between the start and end. And, you cannot use any literals or
  * keywords. This includes primitives. So no if, for, class, new, int, long or other keyword. And no string or
- * numeric literals either.
+ * numeric literals either. However, you are still allowed to use these values if they are returned from a
+ * function, or as arguments too a function (using auto boxing). You are just not allowed to write the specific
+ * words.
+ * 
+ * All operators are allowed (+, -, *, =, & and so on)
  * 
  * @author <a href="mailto:su@ums.no">Ståle Undheim</a>
  */
