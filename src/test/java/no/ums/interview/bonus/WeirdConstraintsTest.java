@@ -14,7 +14,7 @@ import org.junit.Test;
  * function, or as arguments too a function (using auto boxing). You are just not allowed to write the specific
  * words.
  * 
- * All operators are allowed (+, -, *, =, & and so on)
+ * All operators are allowed (+, -, *, =, &amp; and so on)
  * 
  * @author <a href="mailto:su@ums.no">Ståle Undheim</a>
  */
